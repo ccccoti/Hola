@@ -1,7 +1,5 @@
 # Hola
 Hola, agrego una linea
 Y ahora agrego otra
-Borre lo que estaba de antes
-agrego
-mas
-otra
+Voy a borrar cosas anteriores
+Y agregar estas que estoy escribiendo 
