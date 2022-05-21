@@ -1,8 +1,3 @@
-# Hola
-Hola, agrego una linea
-Y ahora agrego otra
-Voy a borrar cosas anteriores
-Y agregar estas que estoy escribiendo 
-Y una mas
-Y unisima mas
-otra
+# Esta es una rama nueva
+La cree desde VSC
+porque no me deja crearla desde el GitHub
